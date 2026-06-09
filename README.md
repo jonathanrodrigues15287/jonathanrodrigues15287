@@ -68,13 +68,7 @@ Modern music streaming application with playlist management and media controls.
 
 ---
 
-## 📊 GitHub Stats
 
-![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathanrodrigues15287&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanrodrigues15287&layout=compact)
-
----
 
 ## 🤝 Connect With Me
 

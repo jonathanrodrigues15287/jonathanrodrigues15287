@@ -18,6 +18,7 @@
   - Machine Learning
   - PyTorch
   - System Design
+  - SQL
 
 - 🎯 Goals for 2026:
 

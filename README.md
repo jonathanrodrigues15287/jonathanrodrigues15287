@@ -1,33 +1,28 @@
-# Hi, I'm Jonathan Rodrigues 👋
+# Hi, I'm Jonathan Rodrigues 
 
-🎓 Computer Engineering Student at FRCRCE, Mumbai  
-💻 Python Developer | Backend Enthusiast   
-🚀 Building real-world projects and continuously improving my software engineering skills
+ Computer Engineering Student at FRCRCE, Mumbai  
+ Python Developer | Backend Enthusiast   
+ Building real-world projects and continuously improving my software engineering skills
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🔭 Currently working on:
-  - Live Stock Market Reviewer
-  - Distributed Web Scraper
-
-
-- 🌱 Currently learning:
+- Currently learning:
   - FastAPI
   - Machine Learning
   - PyTorch
   - System Design
   - SQL
 
-- 🎯 Goals for 2026:
+- Goals for 2026:
 
   - Build production-grade applications
   - Secure more software engineering internships
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,24 +41,24 @@
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 
-### 🔒 Vulnerability Scanner
+###  Vulnerability Scanner
 Python-based cybersecurity tool capable of:
 - Port scanning
 - Service detection
 - Security reporting
 - Automated analysis
 
-### 💰 Expense Tracker
+###  Expense Tracker
 Desktop application for:
 - Expense management
 - Financial reporting
 - CSV exports
 - Budget tracking
 
-### 🎵 Music App
+###  Music App
 Modern music streaming application with playlist management and media controls.
 
 
@@ -71,13 +66,13 @@ Modern music streaming application with playlist management and media controls.
 
 
 
-## 🤝 Connect With Me
+## Connect With Me
 
-📧 Email: jonathanrodrigues15287@gmail.com
+ Email: jonathanrodrigues15287@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/jonathan-rodrigues-95447b385
+ LinkedIn: https://www.linkedin.com/in/jonathan-rodrigues-95447b385
 
-🌐 Portfolio: https://jonathanrodrigues15287.github.io/jonathan-rodrigues-portfolio/
+ Portfolio: https://jonathanrodrigues15287.github.io/jonathan-rodrigues-portfolio/
 
 ---
 

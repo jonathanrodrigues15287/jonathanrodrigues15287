@@ -4,34 +4,7 @@ Computer Science Engineering Student at FRCRCE, Mumbai
 Python Developer | Backend Enthusiast  
 Building real-world projects and continuously improving my software engineering skills
 
----
 
-## About Me
-
-- Currently learning:
-  - FastAPI
-  - System Design
-  - SQL
-- Goals for 2026:
-  - Build production-grade applications
-  - Secure more software engineering internships
-
----
-
-## Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Backend & Tools
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-
----
 
 ## Featured Projects
 
@@ -55,14 +28,48 @@ Desktop app with modular architecture (core/graphs/ui):
 ### Music Playlist App
 Mobile music player built with Python + Kivy, including Android media session integration.
 
+
+
+
+## Tech Stack
+
+### Programming Languages & Web Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" />
+</div>
+
+### Frameworks & Libraries
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="Pandas" />
+</div>
+
+### Databases
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="SQLite" />
+</div>
+
+### Tools & Development Environments
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="60" alt="DataGrip" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="IntelliJ IDEA" />
+</div>
+
+
+# GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jonathanrodrigues15287&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=jonathanrodrigues15287&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jonathanrodrigues15287&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
-
-## Connect With Me
-
-Email: jonathanrodrigues15287@gmail.com  
-LinkedIn: https://www.linkedin.com/in/jonathan-rodrigues-95447b385  
-Portfolio: https://jonathanrodrigues15287.github.io/jonathan-rodrigues-portfolio/
-
----
-
-⭐ If you find my projects interesting, consider starring them!
+[![](https://komarev.com/ghpvc/?username=jonathanrodrigues15287&icon=0&color=0)](https://visitcount.itsvg.in)
